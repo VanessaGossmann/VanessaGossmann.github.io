@@ -1,0 +1,35 @@
+---
+title: "Vanessa Gossmann"
+format: html
+---
+
+## Hey!
+
+![Ein Bild von mir :)](Bild.jpg){style="float: right;" fig-align="right" width="250"}
+
+Ich habe meinen Bachelor of Arts in Erziehungswissenschaft und Sozialpädagogik an der [Eberhard Karls Universität Tübingen](https://uni-tuebingen.de)
+absolviert. Derzeit studiere ich meinen Master in Empirischer Bildungsforschung und Pädagogischer Psychologie an der gleichen Universität.
+
+## Zu mir
+
+### Theoretisches Interesse
+
+-   Theorien zu Motivation, selbstregulieren Lernen und Selbstkonzept
+-   Digitale Lernumgebungen
+-   Künstliche Intelligenz in der Bildung
+-   Empirische Datenanalyse und Forschung
+
+### Fähigkeiten
+
+-   Gute Kentnisse in *R*
+-   Gute Kentnisse in *Microsoft Office*
+-   Grundlagen in *Python*
+
+**Ziele:** Dieses Jahr möchte ich die Grundlagen in *Spanisch* und *JavaScript* erlernen. Zudem *praktische Lösungen für aktuelle Herausforderungen in der Bildung* entwickeln, *neue technologien* anwenden sowie *effiziente Wege der Datenanalyse* nutzen.
+
+## Kontakt
+
+Möchtest du dich mit mir vernetzen? Hier sind meine Kontaktmöglichkeiten:
+
+-   **E-Mail:** vanessa.gossmann\@student.uni-tuebingen.de
+-   **Github:**
